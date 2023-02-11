@@ -1,5 +1,5 @@
 # blush
-[![Gitter](https://badges.gitter.im/blush-lang/community.svg)](https://gitter.im/blush-lang/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Gitter](https://badges.gitter.im/blush-lang/community.svg)](https://gitter.im/blush-lang/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![Join the chat at https://gitter.im/blush-lang/dev](https://badges.gitter.im/blush-lang/dev.svg)](https://gitter.im/blush-lang/dev?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
 Easy systems language: simple, fast, tiny!
